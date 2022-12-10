@@ -40,7 +40,7 @@ If you have any questions or suggestions, feel free to open an issue in the repo
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 
 
